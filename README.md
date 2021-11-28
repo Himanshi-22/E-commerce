@@ -29,9 +29,7 @@ To provide user good quality of products along with easy to use web site.
 
 Technologies :
 
- Frontend :- Html,Css,React.js,javascript.
- Server :- Node.js,Express.js
- Backend :- MongoDB
+ Html,Css,javascript
 
 
 
